@@ -8,6 +8,6 @@
 
 | Week | Tier | Parts funding |
 | --- | --- | --- |
-| Week 1 | Tier 2 | $65.00 |
+| Week 1 | Tier 1 | $30.00 |
 
 _No parts listed yet._
