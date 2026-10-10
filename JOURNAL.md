@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5.37h | 3 |
+| Week 1 | Tier 1 | 5.87h | 3 |
 
 ## Contents
 
@@ -54,7 +54,9 @@ I'm super excited to begin designing the actual PCB layout and diving deeper int
 
 ### 2026-10-07 – Work session
 
-**1.62h**
+**2.12h**
+
+Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/10a459c1-c548-4b56-a863-c23181d25921/video.mp4)
 
