@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10.6h | 4 |
+| Week 1 | Tier 1 | 11.85h | 4 |
 
 ## Contents
 
@@ -63,7 +63,7 @@ Work Session
 
 ### 2026-10-08 – # Update: The great pivot!
 
-**1.75h**
+**3h**
 
 # Update: The great pivot!
 After spending a while researching and planning out the design for the smart coaster, I've realized that while it's a cool concept, what I really need is something a bit more useful and powerful with a greater range of capabilities. So I've decided to pivot the project! I've now decided to build a smart desk command center that displays information such as time, weather, and calendar events using an E-paper display and also has a built-in AI-powered voice assistant!
@@ -79,6 +79,10 @@ Anyways, I'm now working on planning and designing the PCB board for this new pr
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/KvD7dTJaHVfjYIigORhVQkYxq5FrUFSP/05f5caeddaaebf72280a5da88365c8a52838798ed09a1d0af46319bc03e8a4c3.png)
 
 I'm planning to also use a Raspberry Pi 4 board to allow fast and efficient audio to text conversion for the ai voice assistant, and the ESP32 for controlling the display, connecting to APIs, calculating the time, or reading sensor data.
+
+I also set up the GitHub repository, and wrote a readme to introduce the project to others!
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/KvD7dTJaHVfjYIigORhVQkYxq5FrUFSP/6eace1a2d8e8e41ba6e6501ef4335464f5a733680142c3b11b9742354f23fc0a.png)
 
 ### 2026-10-09 – # Parts planning and PCB Design!
 
