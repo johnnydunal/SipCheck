@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5.37h | 3 |
+| Week 1 | Tier 1 | 5.12h | 3 |
 
 ## Contents
 
@@ -62,7 +62,7 @@ Work session
 
 ### 2026-10-08 – # Update: The great pivot!
 
-**1.75h**
+**1.5h**
 
 # Update: The great pivot!
 After spending a while researching and planning out the design for the smart coaster, I've realized that while it's a cool concept, what I really need is something a bit more useful and powerful with a greater range of capabilities. So I've decided to pivot the project! I've now decided to build a smart desk command center that displays information such as time, weather, and calendar events using an E-paper display and also has a built-in AI-powered voice assistant!
