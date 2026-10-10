@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10.1h | 4 |
+| Week 1 | Tier 1 | 11.6h | 4 |
 
 ## Contents
 
 1. [2026-10-07 – # Log 1: Project Research and Conceptualization!](#2026-10-07-log-1-project-research-and-conceptualization)
-2. [2026-10-07 – Work session](#2026-10-07-work-session)
+2. [2026-10-07 – Work Session](#2026-10-07-work-session)
 3. [2026-10-08 – # Update: The great pivot!](#2026-10-08-update-the-great-pivot)
 4. [2026-10-09 – # Parts planning and PCB Design!](#2026-10-09-parts-planning-and-pcb-design)
 
@@ -53,11 +53,11 @@ As well as some optional parts for a battery power subsystem that I might or mig
 
 I'm super excited to begin designing the actual PCB layout and diving deeper into this project!
 
-### 2026-10-07 – Work session
+### 2026-10-07 – Work Session
 
-**2.12h**
+**3.62h**
 
-Work session
+Work Session
 
 [Timelapse](https://lookout.hackclub.com/api/media/10a459c1-c548-4b56-a863-c23181d25921/video.mp4)
 
